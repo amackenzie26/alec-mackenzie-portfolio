@@ -1,5 +1,5 @@
 *, ::after, ::before {
-    box-sizing: inherit;
+    box-sizing: border-box;
 }
 
 div {
@@ -48,8 +48,8 @@ div {
     margin-bottom: 10px;
 }
 
-.hero {
-    position: absolute;
+/* .hero { */
+    /* position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
@@ -57,11 +57,29 @@ div {
     z-index: 1;
     background: url(../images/pexels-ben-mack-5707680.jpg) top center no-repeat lightcoral;
     background-size: cover;
+} */
+
+.list1, li{
+    border-style: dotted;
+    font-size: 15;
+    font-family: cursive;
+    text-align: center;
+}
+
+
+
+h4 {
     color: darkblue;
     padding-left: 110px;
     padding-top: 130px;
     text-shadow: 1px 1px 2px rgb(0 0 0 / 60%);
     font-size: 12px;
+    z-index: 2;
+}
+
+h3{
+    margin-left: 20px;
+    text-align: center;
 }
 
 .nav2{
@@ -77,14 +95,13 @@ div {
     padding: 20px;
 }
 
-/* h3 {
-    position: absolute;
-    z-index: 2;
-} */
+h5 {
+    color: black;
+}
 
-/* float: left;
-    display: inline-flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    background-color: lightblue;
-    overflow-y: auto; */
+.card {
+    flex: 1 0 0;
+    padding: 10px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
