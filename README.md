@@ -14,7 +14,7 @@ I learned how to do many important HTML and CSS tasks, and most importantly how 
 
 To install this project you simply need to be able to access a Google Chrome browser window and have a reliable internet connection. 
 
-Open a browser window, copy and past this link (**) into the URL section, and view the webpage upon loading. 
+Open a browser window, copy and past this link (https://amackenzie26.github.io/alec-mackenzie-portfolio/) into the URL section, and view the webpage upon loading. 
 
 ## Usage
 
