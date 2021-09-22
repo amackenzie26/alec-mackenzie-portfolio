@@ -23,7 +23,8 @@ The navigation bar at the top of the page successfully directs you to the conten
 ![nav](images/pagelayout.png)
   
     Click on App 1, App 2, App3, or App4 to be redirected to their site (github repo for now)
-    
+ 
+ ![nav](images/Screen%20Shot%202021-09-21%20at%209.11.56%20PM.png)
     
 ## Credits
 
