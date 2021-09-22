@@ -21,7 +21,7 @@ Open a browser window, copy and past this link (https://amackenzie26.github.io/a
 The navigation bar at the top of the page successfully directs you to the content:
 
 ```md
-    ![nav](/Users/alecmackenzie/Desktop/alec-mackenzie-portfolio/images/Screen Shot 2021-09-21 at 9.11.21 PM.png)
+    ![nav](https://github.com/amackenzie26/alec-mackenzie-portfolio/blob/main/images/Screen%20Shot%202021-09-21%20at%209.11.21%20PM.png)
     ```
 ## Credits
 
