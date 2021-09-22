@@ -20,9 +20,11 @@ Open a browser window, copy and past this link (https://amackenzie26.github.io/a
 
 The navigation bar at the top of the page successfully directs you to the content:
 
-```md
-    ![nav](https://github.com/amackenzie26/alec-mackenzie-portfolio/blob/main/images/Screen%20Shot%202021-09-21%20at%209.11.21%20PM.png)
-    ```
+[nav](https://github.com/amackenzie26/alec-mackenzie-portfolio/blob/main/images/Screen%20Shot%202021-09-21%20at%209.11.21%20PM.png)
+  
+    Click on App 1, App 2, App3, or App4 to be redirected to their site (github repo for now)
+    
+    
 ## Credits
 
 Thank you for assistance from BCB, pexels.com, W3schools.com, stackoverflow.com
