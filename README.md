@@ -21,9 +21,13 @@ Open a browser window, copy and past this link (https://amackenzie26.github.io/a
 The navigation bar at the top of the page successfully directs you to the content:
 
 ```md
-    ![nav](images/Screen Shot 2021-09-21 at 9.11.21 PM.png)
+    ![nav](/Users/alecmackenzie/Desktop/alec-mackenzie-portfolio/images/Screen Shot 2021-09-21 at 9.11.21 PM.png)
     ```
 ## Credits
 
 Thank you for assistance from BCB, pexels.com, W3schools.com, stackoverflow.com
 
+## Links
+
+Github Repo: https://github.com/amackenzie26/alec-mackenzie-portfolio
+URL: https://amackenzie26.github.io/alec-mackenzie-portfolio/
