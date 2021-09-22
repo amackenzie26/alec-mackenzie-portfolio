@@ -25,12 +25,30 @@ The navigation bar at the top of the page successfully directs you to the conten
     Click on App 1, App 2, App3, or App4 to be redirected to their site (github repo for now)
  
  ![nav](images/Screen%20Shot%202021-09-21%20at%209.11.56%20PM.png)
-    
-## Credits
+ 
+## Built With
 
-Thank you for assistance from BCB, pexels.com, W3schools.com, stackoverflow.com
+HTML
+CSS
+
+## Deployable Link
+
+https://amackenzie26.github.io/alec-mackenzie-portfolio/
+
+## Authors
+
+Alec Mackenzie
 
 ## Links
 
 Github Repo: https://github.com/amackenzie26/alec-mackenzie-portfolio
 URL: https://amackenzie26.github.io/alec-mackenzie-portfolio/
+
+## License
+
+    
+## Credits
+
+Thank you for assistance from BCB Staff, pexels.com, W3schools.com, stackoverflow.com.
+
+
