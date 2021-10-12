@@ -130,6 +130,7 @@ p {
     margin-bottom: 20px;
     padding: 50px;
     min-height: 300px;
+    max-width: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: lightseagreen;
     color: black;
@@ -139,13 +140,14 @@ p {
 .app1{
     margin-bottom: 2px;
     padding: 3px;
-    height: 80px;
+    height: 500px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: white;
+    background-image: url(/Users/alecmackenzie/Desktop/alec-mackenzie-portfolio/images/transparent-logo-copy.png);
     color: black;
     display: flex;
     flex-wrap: wrap;
-
+    font-size: 20px;
 }
 
 .app2{
@@ -243,4 +245,16 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+#linkedin {
+    font-size: 40px;
+}
+
+#github {
+    font-size: 40px;
+}
+
+#resume {
+    font-size: 40px;
 }
