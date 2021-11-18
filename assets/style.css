@@ -148,6 +148,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     font-size: 20px;
+    border-radius: 5px;
 }
 
 .app2{
@@ -159,6 +160,7 @@ p {
     color: black;
     display: inline-flex;
     flex-wrap: wrap;
+    margin-top: 5px;
 }
 
 .app3{
@@ -170,17 +172,22 @@ p {
     color: black;
     display: inline-flex;
     flex-wrap: wrap;
+    margin-top: 5px;
 }
 
 .app4{
     margin-bottom: 2px;
     padding: 3px;
-    height: 50px;
+    height: 290px;
+    width: 425px;
+    margin-top: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: white;
+    background-image: url(/Users/alecmackenzie/Desktop/alec-mackenzie-portfolio/images/animates-logo.png);
     color: black;
     display: inline-flex;
     flex-wrap: wrap;
+    border-radius: 5px;
 }
 
 .my-cv {
